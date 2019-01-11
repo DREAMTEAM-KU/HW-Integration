@@ -1,0 +1,12 @@
+main.c:338:14:convertToDegree.constprop	16	static
+main.c:1016:6:sendToTerminal.constprop	0	static
+main.c:349:6:delay	0	static
+main.c:356:6:SystemClock_Config	248	static
+main.c:998:6:Send_Data	0	static
+main.c:345:6:putData	8	static
+main.c:1006:6:getData	0	static
+main.c:147:5:main	560	static
+main.c:1016:6:sendToTerminal	0	static
+main.c:1025:6:Function_Send_Sensor	0	static
+main.c:1071:6:HAL_TIM_PeriodElapsedCallback	0	static
+main.c:1081:6:Error_Handler	0	static
